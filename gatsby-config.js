@@ -8,9 +8,6 @@ module.exports = {
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Skytomo's Portfolio`,
-    siteDescription: `skytomoのポートフォリオ`,
-    siteLanguage: `ja`,
-    siteImage: `/skytomo.png`,
   },
   plugins: [
     {
@@ -36,12 +33,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/skytomo.png`,
+            src: `/android-chrome-192x192.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/skytomo.png`,
+            src: `/android-chrome-512x512.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
