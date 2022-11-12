@@ -1,13 +1,16 @@
-name: github pages
+name: Github Pages
 
 on:
   push:
     branches:
       - master
+  pull_request:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v3
         with:

@@ -1,0 +1,15 @@
+{{ if eq .Title "Tags"}}
+<h2>タグ</h2>
+<ul style="list-style-type: none;">
+    {{ range .Site.Taxonomies.tags.ByCount }}
+    <li><a href="{{ " /tags/" | relURL }}{{ .Name | urlize }}">{{ .Name }}({{ .Count }})</a></li>
+    {{ end }}
+</ul>
+{{ else if eq .Title "Categories"}}
+<h2>カテゴリ</h2>
+<ul style="list-style-type: none;">
+    {{ range .Site.Taxonomies.categories.ByCount }}
+    <li><a href="{{ " /categories/" | relURL }}{{ .Name | urlize }}">{{ .Name }}({{ .Count }})</a></li>
+    {{ end }}
+</ul>
+{{ end }}
