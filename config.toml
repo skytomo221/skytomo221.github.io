@@ -1,0 +1,5 @@
+baseURL = 'http://skytomo221.com/'
+title = 'skytomo'
+languageCode = 'ja-jp'
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
