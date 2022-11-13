@@ -5,6 +5,7 @@ html {
 
 body {
     margin: 0;
+    margin-bottom: calc(min(15vw, 200px) * 1.5);
     font-family: 'Open Sans', 'Noto Sans JP', sans-serif;
 }
 
@@ -65,4 +66,11 @@ table {
     margin: -2px;
     height: calc(1em + 10px);
     width: calc(calc(1em + 10px) * 1.618);
+}
+
+.skytomo {
+    bottom: max(-15vw, -200px);
+    left: 70vw;
+    position: fixed;
+    width: min(30vw, 400px);
 }
