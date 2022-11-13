@@ -5,7 +5,6 @@ html {
 
 body {
     margin: 0;
-    margin-bottom: calc(min(15vw, 200px) * 1.5);
     font-family: 'Open Sans', 'Noto Sans JP', sans-serif;
 }
 
