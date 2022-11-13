@@ -66,3 +66,26 @@ table {
     height: calc(1em + 10px);
     width: calc(calc(1em + 10px) * 1.618);
 }
+
+.skytomo {
+    bottom: max(-15vw, -200px);
+    left: 70vw;
+    position: fixed;
+    width: min(30vw, 400px);
+}
+
+.skytomo #face #eyes {
+    display: inline;
+}
+
+.skytomo #face #kazarime {
+    display: none;
+}
+
+.skytomo #face:hover #eyes {
+    display: none;
+}
+
+.skytomo #face:hover #kazarime {
+    display: inline;
+}
