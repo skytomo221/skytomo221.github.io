@@ -73,3 +73,19 @@ table {
     position: fixed;
     width: min(30vw, 400px);
 }
+
+.skytomo #face #eyes {
+    display: inline;
+}
+
+.skytomo #face #kazarime {
+    display: none;
+}
+
+.skytomo #face:hover #eyes {
+    display: none;
+}
+
+.skytomo #face:hover #kazarime {
+    display: inline;
+}
