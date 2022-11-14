@@ -74,6 +74,14 @@ table {
     width: min(30vw, 400px);
 }
 
+.skytomo #face {
+    cursor: grab;
+}
+
+.skytomo #face:active {
+    cursor: grabbing;
+}
+
 .skytomo #face #eyes {
     display: inline;
 }
