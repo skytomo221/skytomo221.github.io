@@ -1,5 +1,10 @@
 baseURL = 'https://skytomo221.github.io'
-title = 'skytomo'
-languageCode = 'ja-jp'
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+languageCode = 'ja-jp'
+title = 'skytomo'
+
+[markup.goldmark.renderer]
+hardWraps = true
+[markup.highlight]
+lineNos = true

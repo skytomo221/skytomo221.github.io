@@ -1,0 +1,8 @@
+{{- $src := .Get "src" }}
+{{- $title := .Get "title" }}
+
+{{- $svgFile := path.Join (path.Dir .Position.Filename) $src }}
+
+<figure>
+    {{ readFile $svgFile | safeHTML }}
+</figure>

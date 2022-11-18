@@ -56,8 +56,15 @@ td {
     padding: 8px;
 }
 
+.highlight td:first-child {
+    position: sticky;
+    left: 0;
+}
+
 table {
     border-collapse: collapse;
+    display: block;
+    overflow: auto;
 }
 
 .color-sample {
