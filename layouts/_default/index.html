@@ -8,6 +8,12 @@
   <script type='text/javascript' src='/javascript/index.js'></script>
   <link rel="icon" href="/favicon.ico">
   <title>{{ $.Site.Title }}</title>
+  <script async src="https://api.countapi.xyz/hit/skytomo221.com/86949c1e-3d2f-4800-966a-a0019d80626f?callback=websiteVisits"></script>
+  <script>
+    function websiteVisits(response) {
+      console.log(response.value);
+    }
+  </script>
 </head>
 
 <body style="margin-bottom: calc(min(15vw, 200px) * 1.5);">
