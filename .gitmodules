@@ -1,0 +1,3 @@
+[submodule "themes/skytomo-theme"] 
+  path = themes/skytomo-theme 
+  url = git://github.com/skytomo221/skytomo-hugo-theme.git
