@@ -3,3 +3,4 @@ title = 'skytomo'
 languageCode = 'ja-jp'
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+theme = "skytomo-theme"
