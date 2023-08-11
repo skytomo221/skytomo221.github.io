@@ -1,11 +1,12 @@
 ---
 title: "お砂糖契約書"
-date: 2022-11-11T18:34:14+09:00
+date: 2023-08-09T00:38:26+09:00
+type: "special"
+layout: "sugar"
 ---
 
-skytomo, 秋葉原に行きたい
-
-2023年8月8日
+{{< figure src="/images/sugar.png" alt="写真" class="sugar-photo" >}}
+{{< sugar/sign >}}
 
 ### 用語
 
