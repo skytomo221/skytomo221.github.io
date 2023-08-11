@@ -1,0 +1,11 @@
+figure.sugar-photo {
+    margin: 0;
+}
+
+figure.sugar-photo img {
+    width: min(100%, 1000px);
+}
+
+#sugar-sign {
+    width: min(90%, 900px);
+}

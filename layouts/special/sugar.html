@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel='stylesheet' href='/assets/style.css'>
+  <link rel='stylesheet' href='/assets/sugar.css'>
+  <link rel="icon" href="/favicon.ico">
+  <title>{{ $.Site.Title }}</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T2G6MWJCN5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-T2G6MWJCN5');
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/vivus@latest/dist/vivus.min.js"></script>
+  <script>
+    window.onload = function() {
+      new Vivus('skytomo221', {duration: 300, type: 'oneByOne'});
+      new Vivus('秋葉原に行きたい', {duration: 300, type: 'oneByOne'});
+      new Vivus('♡', {duration: 50, type: 'scenario'});
+    }
+  </script>
+</head>
+
+<body style="margin-bottom: calc(min(15vw, 200px) * 1.5);">
+  {{ partial "header" . }}
+  <main>
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+  </main>
+</body>
+
+</html>
