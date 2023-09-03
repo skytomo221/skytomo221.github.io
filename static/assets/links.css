@@ -1,0 +1,47 @@
+html {
+  background-color: rgb(207, 154, 103);
+  background: fixed center / cover url("/images/links-background.png");
+}
+
+a {
+  color: #00c8ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff00aa;
+  text-decoration: underline;
+}
+
+body {
+  color: whitesmoke;
+  font-family: 'Open Sans', 'Noto Sans JP', sans-serif;
+  margin: 1em;
+}
+
+h1 {
+  font-size: 1rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.categories {
+  margin: 0.1rem;
+}
+
+.categories>section {
+  backdrop-filter: blur(1rem) brightness(75%);
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: 0.1rem;
+  width: 200px;
+}
