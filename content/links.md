@@ -29,6 +29,10 @@ layout: "links"
 
 ### C: 音楽
 
+[Chord Player](https://www.onemotion.com/chord-player/)
+·
+[SoundCloud](https://soundcloud.com/)
+
 {{% /markdownify %}}
 {{</ links/category >}}
 {{< links/category >}}
@@ -36,12 +40,16 @@ layout: "links"
 
 ### D: デザイン・芸術・イラスト
 
+[pixiv](https://www.pixiv.net/)
+
 {{% /markdownify %}}
 {{</ links/category >}}
 {{< links/category >}}
 {{% markdownify %}}
 
 ### E: 地球・環境
+
+[Google Earth](https://earth.google.com/)
 
 {{% /markdownify %}}
 {{</ links/category >}}
@@ -64,6 +72,8 @@ layout: "links"
 
 ### H: 歴史
 
+[世界史の窓](https://www.y-history.net/)
+
 {{% /markdownify %}}
 {{</ links/category >}}
 {{< links/category >}}
@@ -71,12 +81,20 @@ layout: "links"
 
 ### I: 情報工学
 
+[GitLab](https://about.gitlab.com/)
+·
+[GitHub](https://github.com/)
+·
+[MDN Web Docs](https://developer.mozilla.org/ja/)
+
 {{% /markdownify %}}
 {{</ links/category >}}
 {{< links/category >}}
 {{% markdownify %}}
 
 ### J: 法律
+
+[e-Gov法令検索](https://elaws.e-gov.go.jp/)
 
 {{% /markdownify %}}
 {{</ links/category >}}
@@ -103,7 +121,11 @@ layout: "links"
 {{< links/category >}}
 {{% markdownify %}}
 
-### N: 数学 math
+### N: 数学
+
+[Desmos](https://www.desmos.com/)
+·
+[高校数学の美しい物語](https://manabitimes.jp/math)
 
 {{% /markdownify %}}
 {{</ links/category >}}
@@ -147,6 +169,8 @@ layout: "links"
 
 ### U: 教育
 
+[学びTimes](https://manabitimes.jp/)
+
 {{% /markdownify %}}
 {{</ links/category >}}
 {{< links/category >}}
@@ -176,12 +200,16 @@ layout: "links"
 
 ### Y: ニュース
 
+[日本経済新聞](https://www.nikkei.com/)
+
 {{% /markdownify %}}
 {{</ links/category >}}
 {{< links/category >}}
 {{% markdownify %}}
 
 ### Z: ショッピング
+
+[Amazon](https://www.amazon.co.jp/)
 
 {{% /markdownify %}}
 {{</ links/category >}}
