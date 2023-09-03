@@ -83,13 +83,6 @@ layout: "links"
 {{< links/category >}}
 {{% markdownify %}}
 
-### K: （なし）
-
-{{% /markdownify %}}
-{{</ links/category >}}
-{{< links/category >}}
-{{% markdownify %}}
-
 ### L: 語学・言語学
 
 #### L1: 言語学
@@ -125,13 +118,6 @@ layout: "links"
 {{% markdownify %}}
 
 ### P: スポーツ
-
-{{% /markdownify %}}
-{{</ links/category >}}
-{{< links/category >}}
-{{% markdownify %}}
-
-### Q: （なし）
 
 {{% /markdownify %}}
 {{</ links/category >}}
@@ -188,13 +174,6 @@ layout: "links"
 {{< links/category >}}
 {{% markdownify %}}
 
-### X: 年齢制限のあるコンテンツ
-
-{{% /markdownify %}}
-{{</ links/category >}}
-{{< links/category >}}
-{{% markdownify %}}
-
 ### Y: ニュース
 
 {{% /markdownify %}}
@@ -207,3 +186,5 @@ layout: "links"
 {{% /markdownify %}}
 {{</ links/category >}}
 {{</ links/categories >}}
+
+K と Q は欠番です。X は「年齢制限のあるコンテンツ」ですが、内容は非公開です。
