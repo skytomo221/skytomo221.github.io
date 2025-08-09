@@ -1,1 +1,484 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on skytomo</title><link>https://skytomo221.github.io/</link><description>Recent content in Homepage on skytomo</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 11 Nov 2022 18:34:14 +0900</lastBuildDate><atom:link href="https://skytomo221.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>お砂糖契約書</title><link>https://skytomo221.github.io/sugar-contract/</link><pubDate>Wed, 09 Aug 2023 00:38:26 +0900</pubDate><guid>https://skytomo221.github.io/sugar-contract/</guid><description>用語 お砂糖 本契約に締結及び合意することです。 お塩 本契約を解約または破棄することです。 skytomo アカウントusr_6b6e96cc-e7e5-4bce</description></item><item><title>skytomoのカラーテーマ</title><link>https://skytomo221.github.io/color/</link><pubDate>Fri, 11 Nov 2022 18:34:14 +0900</pubDate><guid>https://skytomo221.github.io/color/</guid><description>私のカラーコードです。 イラストを描くときの参考にしてみるといいかも！ 色 名前 RGB HSV メインカラー #00c8ff 193°, 100%, 100% サブカラー #ff00aa 320°, 100%, 100% skytomo-100 #ccf4ff 19</description></item><item><title>個人的なリンク集</title><link>https://skytomo221.github.io/links/</link><pubDate>Fri, 11 Nov 2022 18:34:14 +0900</pubDate><guid>https://skytomo221.github.io/links/</guid><description>A: 知識と文化の基礎 リサーチ・ナビ B: 生物・農学系 キャンベル生物学 C: 音楽 Chord Player · SoundCloud D: デザイン・芸術・イラスト pixiv E: 地球・環境 Google Earth F: ファッション G: ゲー</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on skytomo</title><link>https://skytomo221.github.io/</link><description>Recent content in Homepage on skytomo</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Sat, 09 Aug 2025 23:25:00 +0900</lastBuildDate><atom:link href="https://skytomo221.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>お砂糖契約書</title><link>https://skytomo221.github.io/sugar-contract/</link><pubDate>Wed, 09 Aug 2023 00:38:26 +0900</pubDate><guid>https://skytomo221.github.io/sugar-contract/</guid><description>&lt;p>&lt;figure class="sugar-photo">&lt;img src="https://skytomo221.github.io/images/sugar.png"
+ alt="写真">
+&lt;/figure>
+
+&lt;svg id="sugar-sign" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 80">
+ &lt;defs>
+ &lt;linearGradient xlink:href="#a" id="s" x1="196" x2="202.3" y1="45" y2="59.8"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient id="a">
+ &lt;stop offset="0" stop-color="#09b4e3" />
+ &lt;stop offset="1" stop-color="#6bdee3" />
+ &lt;/linearGradient>
+ &lt;linearGradient xlink:href="#a" id="r" x1="182.6" x2="191.1" y1="42.1" y2="56.4"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="q" x1="167.3" x2="179.6" y1="44.8" y2="57"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="p" x1="150" x2="163.9" y1="52.5" y2="52.5"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="o" x1="132.9" x2="149.7" y1="51.4" y2="51.4"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="n" x1="116.8" x2="130.5" y1="51.6" y2="51.6"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="l" x1="98.8" x2="115" y1="46.2" y2="46.2"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="m" x1="107.5" x2="117.2" y1="38.9" y2="55.3"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="k" x1="84.5" x2="93.6" y1="47.8" y2="66.9"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="i" x1="66.8" x2="65.7" y1="35.4" y2="59.5"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="j" x1="76.8" x2="78.1" y1="46" y2="57.3"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="h" x1="59.2" x2="50.1" y1="43.9" y2="58.5"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="e" x1="15.4" x2="37.5" y1="44" y2="58.7"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="f" x1="11.9" x2="12.6" y1="27.1" y2="38.8"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#a" id="g" x1="19.4" x2="17" y1="26.8" y2="38.2"
+ gradientTransform="translate(16.5 -6.3)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="an" x1="188.4" x2="189.4" y1="52.2" y2="56.1"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient id="b">
+ &lt;stop offset="0" stop-color="#e40979" />
+ &lt;stop offset="1" stop-color="#e4776b" />
+ &lt;/linearGradient>
+ &lt;linearGradient xlink:href="#b" id="ao" x1="199.1" x2="198.2" y1="52.1" y2="58.2"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ak" x1="170.7" x2="184.8" y1="39.4" y2="39.4"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="aj" x1="176.8" x2="168.1" y1="32.7" y2="56.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="al" x1="174.9" x2="183.2" y1="49.5" y2="49.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="am" x1="174.1" x2="185.6" y1="60.3" y2="60.3"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="af" x1="153.9" x2="166" y1="37.6" y2="37.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ag" x1="151.4" x2="165.3" y1="45.2" y2="45.2"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ah" x1="161.8" x2="160" y1="30.4" y2="53.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ai" x1="150.6" x2="167" y1="61.1" y2="61.1"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="Z" x1="139.1" x2="133" y1="32.1" y2="38.4"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="aa" x1="139.9" x2="130" y1="40.3" y2="46.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ab" x1="135.3" x2="134.4" y1="45.7" y2="60.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ac" x1="141.2" x2="150.3" y1="39.6" y2="39.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ad" x1="136.6" x2="149.1" y1="46.8" y2="46.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="ae" x1="144" x2="139.6" y1="47.5" y2="61.1"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="W" x1="110.7" x2="106.5" y1="35.5" y2="56.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="X" x1="111.8" x2="123.8" y1="46" y2="46"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="Y" x1="112.5" x2="127.4" y1="53" y2="53"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="N" x1="75.8" x2="91.7" y1="27.9" y2="27.9"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="O" x1="78" x2="74.6" y1="29.2" y2="60.9"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="P" x1="88.8" x2="84.9" y1="33.1" y2="44.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="Q" x1="85.4" x2="93.9" y1="38.9" y2="45.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="R" x1="85.7" x2="95.2" y1="41" y2="41"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="S" x1="84.6" x2="95.1" y1="44.8" y2="44.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="T" x1="90.3" x2="88" y1="47.4" y2="63"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="U" x1="83.2" x2="81.2" y1="51.8" y2="59.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="V" x1="97.4" x2="100.7" y1="54.7" y2="56.3"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="C" x1="56.1" x2="54.6" y1="15" y2="23.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="D" x1="64.4" x2="63.8" y1="15.7" y2="25.2"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="E" x1="44.4" x2="73.4" y1="20.8" y2="20.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="F" x1="44.5" x2="70.3" y1="30.7" y2="30.7"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="G" x1="58.2" x2="62.5" y1="27.5" y2="34.7"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="H" x1="63.3" x2="62.6" y1="26.5" y2="34.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="I" x1="51.6" x2="68.4" y1="27.5" y2="40.2"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="J" x1="48.2" x2="66" y1="45.8" y2="45.8"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="K" x1="58.2" x2="58.5" y1="41.5" y2="58.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="L" x1="58.5" x2="48.1" y1="47.1" y2="55.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="M" x1="59.5" x2="67.9" y1="47.1" y2="56.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="t" x1="21.6" x2="15.1" y1="27.6" y2="30.5"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#c" id="u" x1="9.1" x2="27.7" y1="38.6" y2="38.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient id="c">
+ &lt;stop offset="0" stop-color="#e30979" />
+ &lt;stop offset="1" stop-color="#e3766b" />
+ &lt;/linearGradient>
+ &lt;linearGradient xlink:href="#b" id="v" x1="19.7" x2="19.5" y1="31.4" y2="58"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="w" x1="18.5" x2="10.8" y1="39.1" y2="50.6"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="x" x1="18.9" x2="27.4" y1="42.6" y2="52.3"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="y" x1="29.9" x2="33.2" y1="38.7" y2="44.3"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="z" x1="43.6" x2="38.6" y1="40.1" y2="47.2"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="A" x1="37.5" x2="30.7" y1="30.9" y2="56.2"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;linearGradient xlink:href="#b" id="B" x1="34.6" x2="44.6" y1="49.9" y2="59.3"
+ gradientTransform="translate(276 -1.1)" gradientUnits="userSpaceOnUse" />
+ &lt;radialGradient xlink:href="#a" id="d" cx="34.9" cy="43" r="13.2" fx="34.9" fy="43"
+ gradientTransform="matrix(1 0 0 1.04 16.5 -8)" gradientUnits="userSpaceOnUse" />
+ &lt;/defs>
+ &lt;g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" paint-order="markers fill stroke">
+ &lt;g id="skytomo221">
+ &lt;g id="at">
+ &lt;path stroke="url(#d)"
+ d="M51 38c2.7-6.3-3.2-7.3-3.2-7.3-5.4-.2-5.6 9.7-4 10 5-1 6.7-2 6.7-2 3.7 3.7 6.3 3.1 6.3 3.1 4.8-2.2 4.3-8.2 4.3-8.2-1.9-7.8-8.8-9.1-8.8-9.1C46 23.3 39.9 29 39.9 29c-2 4-2 9.4-2 9.4.5 5.4 7.2 9 7.2 9 7.6 3.2 16.2 0 16.2 0" />
+ &lt;path stroke="url(#e)"
+ d="M37.9 37c-1.4-3.1-5.3-4.3-5.3-4.3-5.3-.5-6 3.2-6 3.2-2 6.6 1 10.2 1 10.2 2.8 5.8 14 7.2 14 7.2 3.4-.1 12.8-.9 12.8-.9" />
+ &lt;path stroke="url(#f)" d="M29.1 32.7 28.5 21" />
+ &lt;path stroke="url(#g)" d="m33.5 31.7 2.2-11.4" />
+ &lt;/g>
+ &lt;path id="s" stroke="url(#h)"
+ d="M76.6 37.9c-7.2-2.1-10 3.3-10 3.3 0 1.7 2.5 3.8 2.5 3.8 2.9.6 8.7 3.6 8.7 3.6.8 1.1-.8 2.4-.8 2.4-2.9 1.8-6.8 2-6.8 2-2.1-.3-3.7-1.5-3.7-1.5" />
+ &lt;g id="k">
+ &lt;path stroke="url(#i)" d="M83 28.7c1 5.2.2 16.1.2 16.1l-2 6.8 1.2 1.3" />
+ &lt;path stroke="url(#j)" d="M93.3 39.6c-6.2.8-9.7 3.4-9.7 3.4l-.4 3.8c2.5 1.8 11.3 4.4 11.3 4.4" />
+ &lt;/g>
+ &lt;path id="y" stroke="url(#k)"
+ d="M100.8 40.5c-.3 7.8 1.7 10.4 1.7 10.4 3.7 1.5 4.8 1.3 4.8 1.3 3.4-.7 5.2-4.3 5.2-4.3l-.6-6.5s1.7 8.4 2 11.7c-.2 2-1.3 3.6-4.4 7 0 0-4.4 1.8-7.7 1.2V59" />
+ &lt;g id="t">
+ &lt;path id="t1" stroke="url(#l)" d="m116.8 39.8 11 .3 2.1-.5" />
+ &lt;path id="t2" stroke="url(#m)"
+ d="M124 32.3a43 43 0 0 0-2 7.7c-.3 5.7 3.2 9.9 3.2 9.9 1 1.6 3.9 1.4 3.9 1.4 2.4-.6 5.2-2.5 5.2-2.5v0" />
+ &lt;/g>
+ &lt;path id="o1" stroke="url(#n)"
+ d="M142.7 39.5c-4.7-.2-7.3 2.7-7.7 4.3a6 6 0 0 0 .9 4.7c.8 1.4 1.7 2.9 3.9 2.7 2-.2 5.4-3.4 5.7-5.7.3-2.4-3-5.3-3-5.3" />
+ &lt;path id="m" stroke="url(#o)"
+ d="m151.1 38.6-.3 13s1.8-9.1 5.3-11.7c2.7 1.4 1 11.7 1 11.7s1.1-11.2 3.8-11.8c4.2 4.2 2.4 11.9 2.4 11.9l1.4-1.2" />
+ &lt;path id="o2" stroke="url(#p)"
+ d="M175.4 40.3a7 7 0 0 0-5.5 2c-1.3 2.2-2.3 4-1.8 6 .5 2.2 2.3 2.8 3.4 3.3s2.8 1 4.3.2c1.6-.8 3.1-3.9 3-5.8 0-2-3.2-3.6-3.2-3.6" />
+ &lt;path id="21" stroke="url(#q)"
+ d="m184.2 39.2-.7-1.9s.8-2.6 3-3.1c0 0 2.9 0 4 .7 1 .7 2.5 1.3 2 4.6-.6 3.3-7 10.9-7 10.9s8.3 1.3 10.2 1l.7-1.4" />
+ &lt;path id="22" stroke="url(#r)"
+ d="M197.7 39.1c1-4.4 4.5-5.2 4.5-5.2 2.3-.1 4.2 1.8 4.2 1.8 1.3 1.7.5 4.8.5 4.8-1.7 5.3-7.5 8.1-7.5 8.1l7.2 2 1.5-1" />
+ &lt;path id="1" stroke="url(#s)" d="m212.2 39.4 3.5-6.1c.7 3.6 2.2 19.5 2.2 19.5L219 54" />
+ &lt;/g>
+ &lt;g id="秋葉原に行きたい">
+ &lt;g id="秋">
+ &lt;path stroke="url(#t)" d="M297.6 26.4c-2.2 1-4.3 2.4-6.6 3.3h.3" />
+ &lt;path stroke="url(#u)" d="M286.6 38.2c2 0 4-.5 6-.7 2.4-.3 4.8-.3 7.2-.5l2.4-.2" />
+ &lt;path stroke="url(#v)"
+ d="M295.8 29.7c-.6 1.8-.3 3.3-.1 4.9v4.2c-.2 1.7-.3 3-.2 4.8-.2 2.8-.1 5.5-.2 8.3v3l.3 2" />
+ &lt;path stroke="url(#w)" d="M294.9 38a42.7 42.7 0 0 0-3.7 7.1c-.8 2-2.7 3.1-4.3 4.4l.1-.2" />
+ &lt;path stroke="url(#x)" d="M294.9 41.2c1 1.5 2.3 2.9 3 4.6 1 1.6 1.9 3.3 3.5 4.4.6.5 1.5.5 2.1.5" />
+ &lt;path stroke="url(#y)" d="M305.8 37.5c1.5 1.8 2 4 3.7 5.7h0" />
+ &lt;path stroke="url(#z)" d="m319.4 39-4.7 7h0" />
+ &lt;path stroke="url(#A)"
+ d="M313.4 29.6c-.3 3.8-.5 7.5-1 11.2-.4 2-.8 4-1 6-.2 1.8-1 3.3-1.9 4.8-.3 1.7-1.5 2.8-2.9 3.7l.3-.3" />
+ &lt;path stroke="url(#B)" d="M310.8 48.8c1.7 1.9 3.3 3.8 4.6 6a8.7 8.7 0 0 0 5.5 3h0" />
+ &lt;/g>
+ &lt;g id="葉">
+ &lt;path stroke="url(#E)" d="M321.9 20.2c6.2-.4 12.4-1.9 18.5-.7 2.3.4 6.6.2 7.6 0" />
+ &lt;path stroke="url(#C)" d="m332.2 13.9-1.6 8.6" />
+ &lt;path stroke="url(#D)" d="M340.5 14.5c0 3.2-.4 6.6-.6 9.7" />
+ &lt;path stroke="url(#F)" d="M322 30.1c7.3-.2 14.7-.7 22-1l.9-.1" />
+ &lt;path stroke="url(#G)" d="M334.2 26.2c.2 4-1.9 10.5 4.5 7.4" />
+ &lt;path stroke="url(#H)" d="M339.2 25.3c0 2.5-.6 6.4-.7 8.1" />
+ &lt;path stroke="url(#I)" d="M327.3 26.2c1.9 4.5-5.3 12 2.5 12.6 4.8.9 10 .4 14.6.1" />
+ &lt;path stroke="url(#J)" d="M325.7 44.6c4.7 1.6 9.7.5 14.4-.5 0-.1.8 0 .3-.2" />
+ &lt;path stroke="url(#K)" d="M334.2 40.1c1.2 5.8-.1 11.6.2 17.4" />
+ &lt;path stroke="url(#L)" d="M334.3 45.7c-3 3.3-5.8 7.3-10.2 9l-.2-.6v-.5" />
+ &lt;path stroke="url(#M)" d="M335.5 46c4 1.8 6 6.1 8.6 9.3 0 0 .5.1.1 0" />
+ &lt;/g>
+ &lt;g id="原">
+ &lt;path stroke="url(#N)" d="M353.3 27.3c4-.1 9.8-.7 13-1.1" />
+ &lt;path stroke="url(#O)" d="M354 27.8c1 7.4.6 15.2-1.5 22.5-1.2 2.9-2.6 7.2-2.1 9.8" />
+ &lt;path stroke="url(#P)" d="M365.1 31.6c-4 3-6.2 7-3.9 11.9v-.2" />
+ &lt;path stroke="url(#Q)" d="M361.3 37.4c3.6-1 13.6-2.4 9.4 4.2l-.8 2.6" />
+ &lt;path stroke="url(#R)" d="M363.2 39.8c1 1.4 7.9-1.3 6.4.1" />
+ &lt;path stroke="url(#S)" d="M362.2 44.3c2.4-.3 5.2-1 7.5-1.3" />
+ &lt;path stroke="url(#T)" d="M366.1 45.9c-.1 5 .5 10-1.3 14.9-.1.3-.6.8-.8.8" />
+ &lt;path stroke="url(#U)" d="M359 50.1c-.7 2.1-3.2 8-1.5 8.5" />
+ &lt;path stroke="url(#V)" d="M373.4 53.6c.9.4 2.5 3 2.9 1.4" />
+ &lt;/g>
+ &lt;g id="に">
+ &lt;path stroke="url(#W)" d="M386.5 34.3a74 74 0 0 1-4 21.6v-.1" />
+ &lt;path stroke="url(#X)" d="M389.3 45c2.9 0 6.9-.5 9-.2" />
+ &lt;path stroke="url(#Y)" d="M390 52.3c4-1.5 7.9-.4 11.9-.7" />
+ &lt;/g>
+ &lt;g id="行">
+ &lt;path stroke="url(#Z)" d="M415 31c-1 2.6-3 5.3-6 6" />
+ &lt;path stroke="url(#aa)" d="M415.7 39c-2.5 2.2-6.4 7.2-9.8 6.3" />
+ &lt;path stroke="url(#ab)" d="M411.3 44.6c-.3 5-.5 10-1.1 15v-.3" />
+ &lt;path stroke="url(#ac)" d="M418.8 39c1.8-.6 5-2.4 6 0" />
+ &lt;path stroke="url(#ad)" d="M414.2 46c3-1 6.5-.5 9.5-.8" />
+ &lt;path stroke="url(#ae)" d="M420 46.3c.7 4.2 1.4 9.2-.2 13.2-1.2 0-3 1.2-4 .4" />
+ &lt;/g>
+ &lt;g id="き">
+ &lt;path stroke="url(#af)" d="M431.5 36.5c3-.7 6.3-1 9 .5" />
+ &lt;path stroke="url(#ag)" d="M429 43.8c3.4-1.6 7.8.8 10.8 1.1" />
+ &lt;path stroke="url(#ah)" d="M437.5 29.3c-1.2 7.7-.6 15.7-1.6 23.4v-.2" />
+ &lt;path stroke="url(#ai)" d="M428.2 57.8c3.3 3.4 4.4 4.2 5 4.5h2.8l5.5-1.5" />
+ &lt;/g>
+ &lt;g id="た">
+ &lt;path stroke="url(#ak)" d="M448.3 39c3.4-.2 8.7-.4 11-1.4" />
+ &lt;path stroke="url(#aj)" d="M452.8 31.5c0 7.8-3.2 15.4-7 22.1-.3.5-1.3 1.4-1.6 1.7" />
+ &lt;path stroke="url(#al)" d="M452.5 48.9c1.8 0 7.9-2.5 3.8 0" />
+ &lt;path stroke="url(#am)" d="M451.6 59c2.8.6 6 .3 8.6 0" />
+ &lt;/g>
+ &lt;g id="い">
+ &lt;path stroke="url(#an)" d="M464.6 51.1c-.3 1.6-.1 3 .7 4" />
+ &lt;path stroke="url(#ao)" d="M475.3 51c-.5 2-.2 5-1 6.3" />
+ &lt;/g>
+ &lt;/g>
+ &lt;g id="♡">
+ &lt;path data-start="320" stroke="#f5d"
+ d="M266.2 62.9c-7.6.1-15.2-2.8-21.1-7.2-6-4.3-10.9-12.6-10.5-18 .4-5.2 2-7.2 4.5-9.6 2.4-2.3 8.4-4.3 11.7-1.4 1.5 1.3 2.5 2.8 2.1 7.9 2.2-6.8 9-9.3 13.5-6.8 4.4 2.6 6.2 8.2 4.8 12.9-1.8 6.2-7.1 10.4-12.3 13.7a53.4 53.4 0 0 1-22.9 7.7h.3" />
+ &lt;/g>
+ &lt;/g>
+&lt;/svg>&lt;/p></description></item><item><title>skytomoのカラーテーマ</title><link>https://skytomo221.github.io/color/</link><pubDate>Fri, 11 Nov 2022 18:34:14 +0900</pubDate><guid>https://skytomo221.github.io/color/</guid><description>&lt;p>私のカラーコードです。
+イラストを描くときの参考にしてみるといいかも！&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">色&lt;/th>
+ &lt;th style="text-align: center">名前&lt;/th>
+ &lt;th style="text-align: center">RGB&lt;/th>
+ &lt;th style="text-align: center">OKLCH&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #02c6f1;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#02c6f1&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7662 0.1403 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #fd926a;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-orange-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#fd926a&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7655 0.1404 41)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #c6b539;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-yellow-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#c6b539&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7657 0.1403 101)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #4ece95;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-green-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#4ece95&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7656 0.1406 161)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #a4a8ff;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-purple-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#a4a8ff&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7625 0.1242 281)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #ee8ecd;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-pink-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#ee8ecd&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7663 0.1389 341)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #fc0196;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>tomohkys25-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#fc0196&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.6473 0.2654 355)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #0150fc;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>tomohkys25-navy-main&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#0150fc&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.5220 0.2614 263)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #d1f3ff;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-50&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#eefafe&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.9770 0.0130 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #d1f3ff;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-100&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#d1f3ff&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.9437 0.0423 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #9be6ff;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-200&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#9be6ff&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.8835 0.0813 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #65d4f6;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-300&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#65d4f6&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.8179 0.1120 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #02c6f1;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-400&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#02c6f1&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.7662 0.1403 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #02a7cc;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-500&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#02a7cc&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.6752 0.1236 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #028dad;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-600&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#028dad&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.5965 0.1091 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #027690;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-700&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#027690&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.5227 0.0955 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #165e72;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-800&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#165e72&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.4489 0.0745 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #01495a;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-900&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#01495a&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.3751 0.0684 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #01323f;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>skytomo25-blue-950&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#01323f&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.2930 0.0532 221)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #fc0196;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>tomohkys25-fuchsia-500&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#fc0196&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.6473 0.2654 355)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;div class="color-sample" style="background-color: #0150fc;">
+&lt;/div>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>tomohkys25-navy-500&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#0150fc&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>oklch(0.5220 0.2614 263)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>古い色は以下の表を参照してください。&lt;/p></description></item><item><title>個人的なリンク集</title><link>https://skytomo221.github.io/links/</link><pubDate>Fri, 11 Nov 2022 18:34:14 +0900</pubDate><guid>https://skytomo221.github.io/links/</guid><description>&lt;section class="categories">
+ 
+&lt;section>
+ 
+&lt;h3 id="a-知識と文化の基礎">A: 知識と文化の基礎&lt;/h3>
+&lt;p>&lt;a href="https://rnavi.ndl.go.jp/">リサーチ・ナビ&lt;/a>&lt;/p>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="b-生物農学系">B: 生物・農学系&lt;/h3>
+&lt;ul>
+&lt;li>キャンベル生物学&lt;/li>
+&lt;/ul>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="c-音楽">C: 音楽&lt;/h3>
+&lt;p>&lt;a href="https://www.onemotion.com/chord-player/">Chord Player&lt;/a>
+·
+&lt;a href="https://soundcloud.com/">SoundCloud&lt;/a>&lt;/p>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="d-デザイン芸術イラスト">D: デザイン・芸術・イラスト&lt;/h3>
+&lt;p>&lt;a href="https://www.pixiv.net/">pixiv&lt;/a>&lt;/p>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="e-地球環境">E: 地球・環境&lt;/h3>
+&lt;p>&lt;a href="https://earth.google.com/">Google Earth&lt;/a>&lt;/p>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="f-ファッション">F: ファッション&lt;/h3>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="g-ゲーム">G: ゲーム&lt;/h3>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="h-歴史">H: 歴史&lt;/h3>
+&lt;p>&lt;a href="https://www.y-history.net/">世界史の窓&lt;/a>&lt;/p>
+
+
+&lt;/section>
+&lt;section>
+ 
+&lt;h3 id="i-情報工学">I: 情報工学&lt;/h3>
+&lt;p>&lt;a href="https://about.gitlab.com/">GitLab&lt;/a>
+·
+&lt;a href="https://github.com/">GitHub&lt;/a>
+·
+&lt;a href="https://developer.mozilla.org/ja/">MDN Web Docs&lt;/a>&lt;/p></description></item></channel></rss>

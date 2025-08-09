@@ -97,3 +97,7 @@ table {
 .skytomo #face:hover #kazarime {
     display: inline;
 }
+
+.translated {
+    color: cornflowerblue;
+}
