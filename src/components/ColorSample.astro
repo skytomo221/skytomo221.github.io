@@ -1,0 +1,9 @@
+---
+interface Props {
+  color: string;
+}
+
+const { color } = Astro.props;
+---
+
+<div class="color-sample" style={`background-color: ${color};`}></div>
