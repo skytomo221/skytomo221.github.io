@@ -8,7 +8,46 @@ date: 2022-11-11T18:34:14+09:00
 
 ### 成果物
 
-#### プログラム
+#### コミュニティ活動
+
+- [シピルカくん集会](https://x.com/Shipilka_club)・スタッフ
+- [非公式真冬ちゃん集会](https://x.com/Mafuyu_VRChat)・モデレーター
+- [SCJ（日本言語製作共同研究会）](https://x.com/SCJ_account)・上層部
+
+#### 登壇
+
+- [VRChat.rb #7](https://vrcrb.connpass.com/event/397608/)
+  - [Rubyは高級な電卓](https://vrc-ta-hub.com/event/detail/829/)
+- [RailsTokyo#5](https://railstokyo.connpass.com/event/393733/)
+  - [既存プロダクトのRSpecカバレッジを40%から100%にした話](https://speakerdeck.com/optim/20260716-railstokyo-skytomo)
+- [VRC-LT](https://vrc-lt.org/#introduction-and-announcement)
+  - [UdonSharpやUdon Node Graphを使わずにUdonを操りたい](https://www.youtube.com/watch?v=__m1KjVlxJE)
+- [第1回 限界LT feat.Fascode](https://approvers.connpass.com/event/193409/)
+  - [ロジバンのすすめ / Lojban no susume](https://speakerdeck.com/skytomo221/lojban-no-susume)
+  - 補欠でしたが、発表しました
+
+#### ロゴ制作
+
+- シピルカくん集会のロゴ
+- 非公式真冬ちゃん集会のロゴ
+- [VRChat.rbのロゴ](https://github.com/skytomo221/vrchatrb_logo)
+
+#### デザイン
+
+- シピルカくん集会のポスター
+  - [シピルカくん3歳のお誕生日会](https://x.com/Shipilka_club/status/2034245937103597963)
+  - [シピルカ喫茶キャスト募集](https://x.com/Shipilka_club/status/2062190138604839085)
+  - [第4回シピルカくん撮影会](https://x.com/Shipilka_club/status/2071598605757255909)
+  - [第3回シピルカくん撮影会](https://x.com/Shipilka_club/status/1967919588987072949)
+  - [シピルカフォトコン](https://x.com/Shipilka_club/status/2073974270737485834)
+  - [シピルカくんクリスマス集会](https://x.com/Shipilka_club/status/2003658135442010423)
+  - [第11回シピルカくん集会](https://x.com/Shipilka_club/status/2058262844786040895)
+  - [第10回シピルカくん集会](https://x.com/Shipilka_club/status/2024461464682352806)
+  - [第9回シピルカくん集会](https://x.com/Shipilka_club/status/2007825201376182374)
+  - [第8回シピルカくん集会](https://x.com/Shipilka_club/status/1947815239791325220)
+- [skytomoのカラーテーマ](./color)
+
+#### ゲーム
 
 - [waadoru](https://github.com/skytomo221/waadoru)
   - 日本語向けのWordle（単語当てゲーム）
@@ -17,6 +56,15 @@ date: 2022-11-11T18:34:14+09:00
     - ルールが増えて、シンプルさは減りましたが、慣れると結構楽しいと思います
   - [今でも遊んでくれている方がいます](https://twitter.com/search?q=waadoru&f=live)。
     ありがとうございます
+
+#### プログラム
+
+- [Sobakasu](https://github.com/skytomo221/Sobakasu)
+  - UdonSharp の代替言語
+  - VRChat の Udon VM 上で動作するプログラムを生成するために設計された、C#に依存しない高級言語及びシステム
+  - まだ制作中ですが、C# 文法の制約にとらわれず、Udon の特性に最適化された言語設計を目指しています
+- [Nightreign Relics Counter](https://github.com/skytomo221/nightreign-relics-counter)
+  - Nightreign というゲームのレリックの個数をOCRで読み取ってカウントするためのプログラムです
 - [Capturtory](https://github.com/nitkagoshima-sysken/procon29_Competition)
   - 第29回全国高等専門学校プログラミングコンテスト競技部門の競技プログラム
   - 一言で言うと陣取りゲーム
@@ -80,10 +128,6 @@ date: 2022-11-11T18:34:14+09:00
 
 - [pixiv](https://www.pixiv.net/users/19716513/artworks)
 - [Twitter（モーメント）](https://bit.ly/3mBoGQr)
-
-### デザインに関する情報
-
-- [skytomoのカラーテーマ](./color)
 
 ### 問い合わせ
 
