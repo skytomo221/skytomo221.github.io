@@ -1,0 +1,46 @@
+---
+import type { MarkdownLayoutProps } from "astro";
+import Header from "../layouts/Header.astro";
+
+type Props = MarkdownLayoutProps<{
+  title: string;
+  date: Date;
+  type: string;
+}>;
+
+const { frontmatter } = Astro.props;
+const { title } = frontmatter;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/assets/style.css" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="generator" content={Astro.generator} />
+    <title>skytomo</title>
+    <!-- Google tag (gtag.js) -->
+    <script
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-T2G6MWJCN5"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-T2G6MWJCN5");
+    </script>
+  </head>
+  <body>
+    <Header title={title} />
+    <a href="/">トップへ戻る</a>
+    <main>
+      <h2>{title}</h2>
+      <slot />
+    </main>
+  </body>
+</html>
