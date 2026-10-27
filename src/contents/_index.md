@@ -16,6 +16,8 @@ date: 2022-11-11T18:34:14+09:00
 
 #### 登壇
 
+- [Kaigi on Rails 2026](https://kaigionrails.org/2026)
+  - [Railsバージョンを4倍にした話 〜Rails 2系から8系へ〜](https://kaigionrails.org/2026/talks/skytomo221/)
 - [VRChat.rb #7](https://vrcrb.connpass.com/event/397608/)
   - [Rubyは高級な電卓](https://vrc-ta-hub.com/event/detail/829/)
 - [RailsTokyo#5](https://railstokyo.connpass.com/event/393733/)
